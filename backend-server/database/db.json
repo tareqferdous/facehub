@@ -515,6 +515,15 @@
       "avatar": "uploads/avatar/avatar-1708802845791-219561000.png",
       "email": "rambo@email.com",
       "bio": "I am Rambo!!!"
+    },
+    {
+      "id": "ad76a21b-23d4-419f-bf94-75f17280cc84",
+      "password": "$2b$08$fmbKjC4cMzH/KWFzG8WH0eAUEcOpXhEJeD4X7Z5cE0em4/SdjWTly",
+      "firstName": "Tareq",
+      "lastName": "Ferdous",
+      "avatar": "uploads/avatar/avatar-1756443823101-638452506.jpg",
+      "email": "tarekferdos@gmail.com",
+      "bio": "I think this project helps me to understand the real use case of react fundamentals in most benifetial way"
     }
   ]
 }
